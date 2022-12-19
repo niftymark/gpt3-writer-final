@@ -16,7 +16,7 @@ export default function Document() {
         />
         <meta
           property="og:image"
-          content="https://a8-nft-launchpad.s3.ap-southeast-1.amazonaws.com/a8-nft-launchpad/A8_Info_UGC_01.png"
+          content="https://i0.wp.com/syncedreview.com/wp-content/uploads/2017/12/Christmas.jpg?fit=1400%2C600&ssl=1"
         />
         <meta name="twitter:card" content="summary_large_image"></meta>
       </Head>
