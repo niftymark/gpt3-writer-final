@@ -33,7 +33,7 @@ const Home = () => {
   return (
     <div className="root">
       <Head>
-        <title>GPT-3 Writer</title>
+        <title>GPT-3 Present Idea</title>
       </Head>
       <div className="container">
         <div className="header">
